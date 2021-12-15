@@ -140,11 +140,6 @@ DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,youdao.com
-# > PayPal
-USER-AGENT,PayPal*
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypalobjects.com
 # > Sina
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,weibo.com
@@ -158,39 +153,6 @@ DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,sogo.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
-# > Steam
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-# > Tencent
-USER-AGENT,MicroMessenger*
-USER-AGENT,WeChat*
-USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,igamecj.com
-DOMAIN-SUFFIX,myapp.com
-DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qqmail.com
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,tencent-cloud.com
-DOMAIN-SUFFIX,tencent-cloud.net
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN,file-igamecj.akamaized.net
-IP-CIDR,101.32.104.4/32,no-resolve
-IP-CIDR,101.32.104.41/32,no-resolve
-IP-CIDR,101.32.104.56/32,no-resolve
-IP-CIDR,101.32.118.25/32,no-resolve
-IP-CIDR,101.32.133.16/32,no-resolve
-IP-CIDR,101.32.133.53/32,no-resolve
-IP-CIDR,101.32.133.209/32,no-resolve
-IP-CIDR,129.226.3.47/32,no-resolve
-IP-CIDR,129.226.107.244/32,no-resolve
-IP-CIDR,182.254.116.0/24,no-resolve
-IP-CIDR,203.205.254.0/23,no-resolve
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
